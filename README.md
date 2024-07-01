@@ -1,4 +1,4 @@
-# The Arcade Constitution
+# 𝒯𝒽𝑒 𝒜𝓇𝒸𝒶𝒹𝑒 𝒞𝑜𝓃𝓈𝓉𝒾𝓉𝓊𝓉𝒾𝑜𝓃
 
 Arcade is a game where you get prizes for building, documenting, and shipping projects.
 
