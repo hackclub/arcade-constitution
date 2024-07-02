@@ -74,6 +74,7 @@ A shipped project must be shared in a way that other people can experience to th
 <summary>Fine Print</summary>
 * Ships must be shared in the Hack Club Slack with a post in #scrapbook
 * There must be a component of the ship that can be experienced by people in Slack
+</details>
 
 <details>
 <summary>Examples</summary>
