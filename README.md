@@ -2,7 +2,9 @@
 
 Arcade is a game where you get prizes for building, documenting, and shipping projects.
 
-This is the first draft of a living document defines "what counts" for the Hack Club Arcade. Heck, it's not even a _finished_ draft. Comments, pull requests, and questions are welcome.
+The spirit of Arcade is for you to build stuff in a hacker mindset. Start a project, push it to an MVP as fast as possible, publish it, then iterate quickly. We have rules and standards for review, but the ultimate thing those rules are trying to get at is "are you doing real work on personal projects in a hacker mindset".
+
+This is the first draft of a living document defines "what counts" for the Hack Club Arcade. It should be a short and sweet reference for Arcade players and reviewers alike. Comments, pull requests, and questions are welcome.
 
 ## The Essential Phases
 
@@ -10,7 +12,7 @@ Arcade has three essential phases:
 
 1. **Build** projects and log your hours with `/arcade`
 2. **Document** progress in a git-based versioning system
-3. **Ship** a demo in #scrapbook when it's ready to share
+3. **Ship** a shareable version in #scrapbook when it's ready
 
 After you ship, you'll get a ticket for every hour that passes review. Spend these tickets with `/shop`
 
@@ -20,9 +22,11 @@ A project is a self-directed creative effort toward an output that other people 
 
 <details>
 <summary>Fine Print</summary>
+- Homework or work done for a job are not self-directed and therefore don't count
+- Projects started (but not finished) before Arcade are okay, but only the work done during Arcade can be logged
 </details>
 
-<details>
+<!-- <details>
 <summary>Examples</summary>
 ❌ Homework (not self-directed, usually no output that someone else can experience)
 ✅ Personal projects
@@ -42,19 +46,19 @@ A project is a self-directed creative effort toward an output that other people 
 ❌ Watching a video on how to knit
 ✅ Knitting a sweater
 
-</details>
+</details> -->
 
 ### What counts as "Documenting progress"?
 
-The journey of each project must be shared in a public git repository, with at least one update per hour logged.
+The journey of each project must be shared in a public git repository, with at least one update committed per hour logged.
 
 <details>
 <summary>Fine Print</summary>
-* For code or other text-based content, each update must be in the repo. For everything else, images or videos are fine.
-* Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.
+- For code or other text-based content, each update must be in the repo. For everything else, images or videos are fine.
+- Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.
 </details>
 
-<details>
+<!-- <details>
 <summary>Examples</summary>
 ❌ Screenshots of your code
 ✅ Links to commits on GitHub
@@ -64,7 +68,7 @@ The journey of each project must be shared in a public git repository, with at l
 
 More examples!!
 
-</details>
+</details> -->
 
 ### What counts as "Shipped"?
 
@@ -72,11 +76,11 @@ A shipped project must be shared in a way that other people can experience to th
 
 <details>
 <summary>Fine Print</summary>
-* Ships must be shared in the Hack Club Slack with a post in #scrapbook
-* There must be a component of the ship that can be experienced by people in Slack
+- Ships must be shared in the Hack Club Slack with a post in #scrapbook
+- There must be a component of the ship that can be experienced by people in Slack
 </details>
 
-<details>
+<!-- <details>
 <summary>Examples</summary>
 ❌ A scrapbook post verbally describing your website
 ✅ A link to a deployed version of the website
@@ -86,7 +90,7 @@ A shipped project must be shared in a way that other people can experience to th
 
 More examples!!
 
-</details>
+</details> -->
 
 ## The Essential Vibes
 
@@ -94,8 +98,13 @@ The gray areas of "what counts" are ultimately resolved with a vibe check. Here 
 
 - **How technical is this project?**
 - **Is this person pushing themselves?**
-- **Is this a high-agency project?**
+- **Does this project feel wholesome?**
+- **Is this a highly self-directed project?**
 - **Is this a good story?**
 - **Am I amazed?**
 
 These are not criteria or requirements, they are just vibes. But when a project is in a gray zone, these vibes guide our decisions.
+
+## Happy Hacking!
+
+Build stuff, get stuff, repeat. All summer. _(ends August 31st)_
