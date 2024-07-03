@@ -22,8 +22,10 @@ A project is a self-directed creative effort toward an output that other people 
 
 <details>
 <summary>Fine Print</summary>
-- Homework or work done for a job are not self-directed and therefore don't count
-- Projects started (but not finished) before Arcade are okay, but only the work done during Arcade can be logged
+<ul>
+<li>Homework or work done for a job are not self-directed and therefore don't count</li>
+<li>Projects started (but not finished) before Arcade are okay, but only the work done during Arcade can be logged</li>
+</ul>
 </details>
 
 <!-- <details>
@@ -54,8 +56,10 @@ The journey of each project must be shared in a public git repository, with at l
 
 <details>
 <summary>Fine Print</summary>
-- For code or other text-based content, each update must be in the repo. For everything else, images or videos are fine.
-- Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.
+<ul>
+<li>For code or other text-based content, each update must be in the repo. For everything else, images or videos are fine.</li>
+<li>Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.</li>
+</ul>
 </details>
 
 <!-- <details>
@@ -76,8 +80,10 @@ A shipped project must be shared in a way that other people can experience to th
 
 <details>
 <summary>Fine Print</summary>
-- Ships must be shared in the Hack Club Slack with a post in #scrapbook
-- There must be a component of the ship that can be experienced by people in Slack
+<ul>
+<li>Ships must be shared in the Hack Club Slack with a post in #scrapbook</li>
+<li>There must be a component of the ship that can be experienced by people in Slack</li>
+</ul>
 </details>
 
 <!-- <details>
