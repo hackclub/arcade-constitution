@@ -111,6 +111,14 @@ The gray areas of "what counts" are ultimately resolved with a vibe check. Here 
 
 These are not criteria or requirements, they are just vibes. But when a project is in a gray zone, these vibes guide our decisions.
 
+## Other Rules
+
+<ul>
+<li>You can't bank more than 25 hours at a time, because of arcane technical reasons, but also because you should be shipping and iterating on a loop tighter than 25 hours</li>
+<li>If we think you have knowingly submitted something fradulent, we will either give you negative hours or just ban you outright</li>
+<li>Nothing that breaks the law or facilitates breaking of laws, please</li>
+</ul>
+
 ## Happy Hacking!
 
 Build stuff, get stuff, repeat. All summer. _(ends August 31st)_
