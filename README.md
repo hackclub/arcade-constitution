@@ -57,7 +57,8 @@ The journey of each project must be shared in a public git repository, with at l
 <details>
 <summary>Fine Print</summary>
 <ul>
-<li>For code or other text-based content, each update must be in the repo. For everything else, images or videos are fine.</li>
+<li>Every update needs a link to the git commit for that hour</li>
+<li>For code or other text-based content, put the actual code in the repo. For everything else, images or videos are fine—in the repo though!</li>
 <li>Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.</li>
 </ul>
 </details>
