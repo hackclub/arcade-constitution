@@ -112,6 +112,21 @@ The gray areas of "what counts" are ultimately resolved with a vibe check. Here 
 
 These are not criteria or requirements, they are just vibes. But when a project is in a gray zone, these vibes guide our decisions.
 
+## ChatGPT, AI and tutorials
+
+The main idea is that we want whatever you submit to be your own work, and something unique and original. AI tools and tutorials are not disallowed, but we want whatever you make to still be yours.
+
+<details>
+<summary>Fine Print</summary>
+<ul>
+<li>Code generated with ChatGPT, Copilot, Phind, or any other AI tool must be declared as such. Explain which code is generated in comments at the top of your files and/or your commit note. If necessary, leave more information in your session thread. This isn't because we're fun haters, it's just because we want whatever you produce to be your own work, and to be able to differentiate between what was made by you and what was used as a tool.</li>
+<li>The same applies for code copied from tutorials - Following tutorials is fine, but it can't be your whole project. If a substantial part of your code is directly copied from a tutorial, it's not really your work and you shouldn't take credit for it. If your entire project is following a tutorial with minimal edits, we cannot count it. </li>
+<li>Using Stack Exchange / guides / AI to solve a single problem or take a single line of code is OK, but remember if it's much more than that to say where it came from. We're not looking for APA citations here, just a link or quick comment is fine.</li>
+<li>Be honest, please. Don't take credit for other people's work, lie about AI usage, or anything similarly violating the integrity  of Hack Club. Failure to follow these policies may result in any of the punishments listed in the next section.</li>
+</ul>
+</details>
+
+
 ## Other Rules
 
 <ul>
@@ -119,6 +134,7 @@ These are not criteria or requirements, they are just vibes. But when a project 
 <li>You can't bank more than 25 hours at a time, because of arcane technical reasons, but also because you should be shipping and iterating on a loop tighter than 25 hours</li>
 <li>If we think you have knowingly submitted something fradulent, we will either give you negative hours or just ban you outright</li>
 <li>Nothing that breaks the law or facilitates breaking of laws, please</li>
+<li>Remember, if you're ever not sure about a rule, drop a message in #arcade-help and we'll let you know.</li>
 </ul>
 
 ## Happy Hacking!
