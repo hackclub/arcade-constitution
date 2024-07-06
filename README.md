@@ -116,7 +116,7 @@ These are not criteria or requirements, they are just vibes. But when a project 
 
 <ul>
 <li>This is a living, changing document. Rules have changed and will continue changing. For practical reasons we have to enforce whatever the latest rules are, even for hours that were submitted before the change.</li>
-<li>You can't bank more than 25 hours at a time, because of arcane technical reasons, but also because you should be shipping and iterating on a loop tighter than 25 hours</li>
+<li>You can't bank more than 25 hours at a time, because of technical Arcade related reasons, but also because you should be shipping and iterating on a loop tighter than 25 hours</li>
 <li>If we think you have knowingly submitted something fradulent, we will either give you negative hours or just ban you outright</li>
 <li>Nothing that breaks the law or facilitates breaking of laws, please</li>
 </ul>
