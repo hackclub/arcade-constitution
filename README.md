@@ -23,8 +23,10 @@ A project is a self-directed creative effort toward an output that other people 
 <details>
 <summary>Fine Print</summary>
 <ul>
-<li>Homework or work done for a job are not self-directed and therefore don't count</li>
+<li>leetcode or similar challenges do not count</li>
+<li>Homework or work done for a job/commission are not self-directed and therefore don't count</li>
 <li>Projects started (but not finished) before Arcade are okay, but only the work done during Arcade can be logged</li>
+<li>Tutorial projects that are 1:1 copies of the tutorial do not count. If you're doing a tutorial, you need to "make it your own" in some way</li>
 </ul>
 </details>
 
@@ -82,8 +84,10 @@ A shipped project must be shared in a way that other people can experience to th
 <details>
 <summary>Fine Print</summary>
 <ul>
+<li>Your repo needs a README</li>
 <li>Ships must be shared in the Hack Club Slack with a post in #scrapbook</li>
 <li>There must be a component of the ship that can be experienced by people in Slack</li>
+<li>For digital but non-code projects, a file—and, for some online tools, a link—of the "most native" type for the project must be included. STL and .blend for Blender, PNG and project link for Figma, Gerber file and CAD file for PCBs, STEP export and STL for CAD (with a link for OnShape projects), PNG for and source file (PSD, XCF, etc) for digital art…</li>
 </ul>
 </details>
 
