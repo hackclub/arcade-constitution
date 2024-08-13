@@ -62,7 +62,8 @@ The journey of each project must be shared in a public git repository, with at l
 <li>Every update needs a link to the git commit for that hour</li>
 <li>For code or other text-based content, put the actual code in the repo. For everything else, images or videos are fine—in the repo though!</li>
 <li>Any git-based system is allowed, but GitHub is preferred. Many of our review automations are built around GitHub, so other systems may be more annoying for you to use.</li>
-<li>When submitting a single session scrapbook, you are required to include 2 mini-scraps throughout the session to help our reviewers clearly understand your progress.</li>
+<li>When submitting a single session scrapbook, you are required to include 2 mini-scraps throughout the session to help our reviewers clearly understand your progress. It is a progress update (not necessarily a git-commit) showing your progress through this part of the session. This could be screenshots of art or CAD or product of your code, or git commits, multiple times throughout your session and sent in the thread.
+</li>
 </ul>
 </details>
 
