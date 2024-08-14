@@ -87,10 +87,37 @@ A shipped project must be shared in a way that other people can experience to th
 <summary>Fine Print</summary>
 <ul>
 <li>Your repo needs a README</li>
-<li>Ships must be shared in the Hack Club Slack with a post in #scrapbook</li>
+<li>Ships must be shared in the Hack Club Slack with a post in #scrapbook. They also need a screenshot or video or URL to experience the thing</li>
 <li>There must be a component of the ship that can be experienced by people in Slack</li>
 <li>For digital but non-code projects, a file—and, for some online tools, a link—of the "most native" type for the project must be included. STL and .blend for Blender, PNG and project link for Figma, Gerber file and CAD file for PCBs, STEP export and STL for CAD (with a link for OnShape projects), PNG for and source file (PSD, XCF, etc) for digital art…</li>
 </ul>
+
+Some examples of "native" websites diffferent types of projects are below. Keep in mind, this isn't an exhaustive list, but a big part of "shipping" a project is getting others to experience it & this is a good way to do that.
+
+- 3D printing files
+    - https://thingiverse.com
+    - https://printables.com
+    - https://makerworld.com
+- Blender files
+    - https://blendswap.com
+    - https://sketchfab.com
+- Games
+    - https://itch.io
+    - https://gamejolt.com
+- Web projects
+    - https://vercel.com (if a website)
+    - https://github.com (Using GitHub Pages)
+
+## Python projects
+
+In particular we find python projects are often the hardest to ship. A couple approaches you can take:
+
+- If you have a package, you can publish it to PyPi
+- If you make a game or executable, you can publish it with pygame or pyinstaller
+- If all else fails, you can publish it to GitHub and include a `requirements.txt` file & a `poetry.lock` file & cut a release
+
+Many python projects end up being just a `script.py` file in a repo, which isn't a real project because it may only work on your machine. Keep in mind that the goal is to make your project accessible to others & everyone has different versions of python and different dependencies installed.
+
 </details>
 
 <!-- <details>
