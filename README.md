@@ -107,6 +107,11 @@ Some examples of "native" websites diffferent types of projects are below. Keep 
 - Web projects
     - https://vercel.com (if a website)
     - https://github.com (Using GitHub Pages)
+- Game mods (different for every game)
+    - https://www.spigotmc.org (for Minecraft mods)
+    - https://modrinth.com (for Minecraft mods)
+    - https://hangar.papermc.io (for Minecraft plugins)
+    - https://www.moddb.com/ (for source games)
 
 ## Python projects
 
