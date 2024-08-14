@@ -112,8 +112,12 @@ Some examples of "native" websites diffferent types of projects are below. Keep 
     - https://modrinth.com (for Minecraft mods)
     - https://hangar.papermc.io (for Minecraft plugins)
     - https://www.moddb.com/ (for source games)
+- Discord bots
+    - https://top.gg
+    - https://bots.ondiscord.xyz
+    - https://discord.bots.gg
 
-## Python projects
+## Python Projects
 
 In particular we find python projects are often the hardest to ship. A couple approaches you can take:
 
