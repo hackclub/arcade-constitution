@@ -92,7 +92,7 @@ A shipped project must be shared in a way that other people can experience to th
 <li>For digital but non-code projects, a file—and, for some online tools, a link—of the "most native" type for the project must be included. STL and .blend for Blender, PNG and project link for Figma, Gerber file and CAD file for PCBs, STEP export and STL for CAD (with a link for OnShape projects), PNG for and source file (PSD, XCF, etc) for digital art…</li>
 </ul>
 
-Some examples of "native" websites diffferent types of projects are below. Keep in mind, this isn't an exhaustive list, but a big part of "shipping" a project is getting others to experience it & this is a good way to do that.
+Some examples of "native" websites different types of projects are below. Keep in mind, this isn't an exhaustive list, but a big part of "shipping" a project is getting others to experience it & this is a good way to do that.
 
 - 3D printing files
     - https://thingiverse.com
