@@ -86,6 +86,7 @@ A shipped project must be shared in a way that other people can experience to th
 <details>
 <summary>Fine Print</summary>
 <ul>
+<li>Your project must have its own repo</li>
 <li>Your repo needs a README</li>
 <li>Ships must be shared in the Hack Club Slack with a post in #scrapbook. They also need a screenshot or video or URL to experience the thing</li>
 <li>There must be a component of the ship that can be experienced by people in Slack</li>
@@ -116,6 +117,7 @@ Some examples of "native" websites diffferent types of projects are below. Keep 
     - https://top.gg
     - https://bots.ondiscord.xyz
     - https://discord.bots.gg
+    - Invite link to your bot
 
 ## Python Projects
 
