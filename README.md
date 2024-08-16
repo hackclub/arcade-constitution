@@ -56,8 +56,6 @@ A project is a self-directed creative effort toward an output that other people 
 
 The journey of each project must be shared in a public git repository, with at least one update committed per hour logged.
 
-<details>
-<summary>Fine Print</summary>
 <ul>
 <li>Every update needs a link to the git commit for that hour</li>
 <li>For code or other text-based content, put the actual code in the repo. For everything else, images or videos are fine—in the repo though!</li>
@@ -65,7 +63,6 @@ The journey of each project must be shared in a public git repository, with at l
 <li>When submitting a single session scrapbook, you are required to include 2 mini-scraps throughout the session to help our reviewers clearly understand your progress. It is a progress update (not necessarily a git-commit) showing your progress through this part of the session. This could be screenshots of art or CAD or product of your code, or git commits, multiple times throughout your session and sent in the thread.
 </li>
 </ul>
-</details>
 
 <!-- <details>
 <summary>Examples</summary>
