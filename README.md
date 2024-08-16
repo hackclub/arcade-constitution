@@ -125,7 +125,7 @@ In particular we find python projects are often the hardest to ship. A couple ap
 
 - If you have a package, you can publish it to PyPi
 - If you make a game or executable, you can publish it with pygame or pyinstaller
-- If all else fails, you can publish it to GitHub and include a `requirements.txt` file & a `poetry.lock` file & cut a release
+- If all else fails, you can publish it to GitHub and include a `requirements.txt` file | a `poetry.lock` file & make sure to cut a release
 
 Many python projects end up being just a `script.py` file in a repo, which isn't a real project because it may only work on your machine. Keep in mind that the goal is to make your project accessible to others & everyone has different versions of python and different dependencies installed.
 
