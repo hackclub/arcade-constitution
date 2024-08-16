@@ -87,7 +87,7 @@ A shipped project must be shared in a way that other people can experience to th
 <summary>Fine Print</summary>
 <ul>
 <li>Your project must have its own repo</li>
-<li>Your repo needs a README</li>
+<li>Your repo needs a README with clear steps on how to experience your project and with any form of demo (screenshots, videos, links)</li>
 <li>Ships must be shared in the Hack Club Slack with a post in #scrapbook. They also need a screenshot or video or URL to experience the thing</li>
 <li>There must be a component of the ship that can be experienced by people in Slack</li>
 <li>For digital but non-code projects, a file—and, for some online tools, a link—of the "most native" type for the project must be included. STL and .blend for Blender, PNG and project link for Figma, Gerber file and CAD file for PCBs, STEP export and STL for CAD (with a link for OnShape projects), PNG for and source file (PSD, XCF, etc) for digital art…</li>
